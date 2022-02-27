@@ -70,9 +70,7 @@ body{
     text-decoration: none;
     color: white;
 }
-.fields svg{
-    height: 15px;  
-}
+
 .lata{outline: none;
     border: none;
     cursor: pointer;
